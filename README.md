@@ -1,2 +1,2 @@
-# szenl.github.io
+# szenl.org
 Shenzhen Enlightened Website
